@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=BAEKTEUN&fontSize=90)
 ![baekteun's github stats](https://github-readme-stats.vercel.app/api?username=baekteun&show_icons=true)
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=dracula)
-
-<figure><embed src="https://wakatime.com/share/@a9959a7c-4aab-4075-a5eb-9dedaa5673a0/df82e438-b75b-425d-a1f1-ee005fffd439.svg"></embed></figure>
+![Embeddables](https://wakatime.com/share/@a9959a7c-4aab-4075-a5eb-9dedaa5673a0/21bc1e3b-e242-492f-b02c-959e69dfb969.svg)
