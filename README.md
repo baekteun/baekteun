@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![baekteun's github stats](https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true)
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> -->
