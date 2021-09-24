@@ -19,3 +19,21 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
 ![이게뭐야?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+
+<table>
+  <tr>
+    <td valign="top" width=50%>
+      <div align="center">
+        <h6> <b> Stack </b> </h6>
+      </div>
+      <div align="center">
+        <img style="margin: 10px" alt="Swift" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/swift/swift.png"/>
+        <img style="margin: 10px" alt="Swift" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/swift/swift.png"/>
+        <img style="margin: 10px" alt="Swift" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/swift/swift.png"/>
+        <img style="margin: 10px" alt="Kotlin" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/kotlin/kotlin.png"/>
+        <img style="margin: 10px" alt="Java" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/java/java.png"/>
+        <img style="margin: 10px" alt="Python" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png"/>
+      </div>
+    </td>
+  </tr>
+</table>
