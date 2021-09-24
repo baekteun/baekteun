@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Cópia de Sem nome](https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif)
 [![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua)ﾠ
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=BAEKTEUN&fontSize=90)
 ![baekteun's github stats](https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true)
