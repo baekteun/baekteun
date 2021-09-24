@@ -42,6 +42,5 @@ Here are some ideas to get you started:
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
 <!-- <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
-![이게뭐야?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Thales-Eduardo/Thales-Eduardo/blob/output/github-contribution-grid-snake.svg)
 
