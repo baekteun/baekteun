@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua)ﾠ
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=BAEKTEUN&fontSize=90)
 ![baekteun's github stats](https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true)
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko)
+
+
+
 <table>
   <tr>
     <td valign="top" width=50%>
