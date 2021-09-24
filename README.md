@@ -12,15 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ![Cópia de Sem nome](https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif)
 [![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua)ﾠ
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=BAEKTEUN&fontSize=90)
 ![baekteun's github stats](https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true)
-![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko)
+![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko) -->
 
-
-
-<table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=BAEKTEUN&fontSize=90"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko"/>
+  <table>
   <tr>
     <td valign="top" width=50%>
       <div align="center">
@@ -37,11 +42,20 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-
-
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
-<!-- <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
+  
+  
+  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
 ![Snake animation](https://github.com/Thales-Eduardo/Thales-Eduardo/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+
+
+
+
+<!-- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
+<!-- <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> 
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
+![Snake animation](https://github.com/Thales-Eduardo/Thales-Eduardo/blob/output/github-contribution-grid-snake.svg) -->
 
