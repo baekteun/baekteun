@@ -55,12 +55,21 @@ Here are some ideas to get you started:
   </tr>
 </table>
   
-  
-  
 ![swift](https://user-images.githubusercontent.com/74440939/134772099-41fc64d9-b2e3-4303-92a0-b21145d8c47e.png)
   
+  <p>
+    <img style="width: 62%;" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=baekteun"/>
+  </p>
   
-  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
+
+  
+
+  
+  <!--![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=baekteun)](https://solved.ac/kinetic27)-->
+  
+  
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
 ![Snake animation](https://github.com/baekteun/baekteun/blob/output/github-contribution-grid-snake.svg)
   
