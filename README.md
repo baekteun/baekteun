@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   
   
   
-  <img width="891" alt="contributionSwift" src="https://user-images.githubusercontent.com/74440939/134765765-313b5423-e78c-41da-ae91-a7545afd69a7.png">
+![swift](https://user-images.githubusercontent.com/74440939/134772099-41fc64d9-b2e3-4303-92a0-b21145d8c47e.png)
   
   
   ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
