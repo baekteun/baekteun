@@ -49,7 +49,10 @@ Here are some ideas to get you started:
           <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134772887-3ade7096-8390-4370-8e01-fae73c7d32d5.png" alt="macOS" height="50" /> 
             <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
+          <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134781969-1c7d1bc4-182e-44c6-a019-aa4087103841.png" alt="GitKraken" height="50" />
           <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134781190-b9ab4f46-dcbb-434c-94ca-b77078385e7e.png" alt="Xcode" height="50" />
+          <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134781828-e79043cc-4f04-49c4-862b-e335f66a6a69.png" alt="IntelliJ" height="50" />
+          <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134782348-23589f4f-f805-43c6-affe-0f4059ec58bc.png" alt="vscode" height="50" />
           <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134781320-486a354f-6dde-4556-82c6-241add714c2c.png" alt="Notion" height="50" />
         </div>
     </td>
