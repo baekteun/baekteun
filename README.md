@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   
   <p>
     <img style="width: 60%;" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=baekteun"/>
+      <img style="width: 39%;" src="http://mazassumnida.wtf/api/generate_badge?boj=baekteun"/>
   </p>
   
 
