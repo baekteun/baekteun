@@ -37,6 +37,7 @@ Here are some ideas to get you started:
         <img style="margin: 10px" alt="Swift" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/swift/swift.png"/>
         <img style="margin: 10px" alt="Kotlin" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/kotlin/kotlin.png"/>
         <!--<img style="margin: 10px" alt="Kotlin" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>-->
+        <img style="margin: 10px" alt="Python" height="50" src="https://user-images.githubusercontent.com/74440939/134772614-272a1176-448d-4ba0-8596-781174f1d171.png"/>
         <img style="margin: 10px" alt="Python" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png"/>
       </div>
     </td>
