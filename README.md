@@ -41,6 +41,17 @@ Here are some ideas to get you started:
         <img style="margin: 10px" alt="Python" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png"/>
       </div>
     </td>
+    <td valign="top" width="50%">
+        <div align="center">
+                <h6><b>DevOps toolchain</b></h6>
+            </div>
+        <div align="center"> 
+          <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134772887-3ade7096-8390-4370-8e01-fae73c7d32d5.png" alt="macOS" height="50" /> 
+            <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
+            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
+            <img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>
+        </div>
+    </td>
   </tr>
 </table>
   
