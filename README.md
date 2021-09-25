@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   
   ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
-![Snake animation](https://github.com/Thales-Eduardo/Thales-Eduardo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/baekteun/baekteun/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
