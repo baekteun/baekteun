@@ -43,13 +43,14 @@ Here are some ideas to get you started:
     </td>
     <td valign="top" width="50%">
         <div align="center">
-                <h6><b>DevOps toolchain</b></h6>
+                <h6><b>Tools</b></h6>
             </div>
         <div align="center"> 
           <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134772887-3ade7096-8390-4370-8e01-fae73c7d32d5.png" alt="macOS" height="50" /> 
             <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-            <!--<img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>-->
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
+          <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134781190-b9ab4f46-dcbb-434c-94ca-b77078385e7e.png" alt="Xcode" height="50" />
+          <img style="margin: 10px" src="https://user-images.githubusercontent.com/74440939/134781320-486a354f-6dde-4556-82c6-241add714c2c.png" alt="Notion" height="50" />
         </div>
     </td>
   </tr>
@@ -67,7 +68,8 @@ Here are some ideas to get you started:
 
   
   <!--![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=baekteun)](https://solved.ac/kinetic27)-->
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=baekteun)](https://solved.ac/kinetic27)
+  <img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>-->
   
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
