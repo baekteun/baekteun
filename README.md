@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif"/>
   <!--<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=BAEKTEUN&fontSize=90"/>-->
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:49%;"/>
   <table>
   <tr>
     <td valign="top" width=50%>
