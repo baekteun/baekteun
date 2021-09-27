@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko) -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif"/>
+  <!--<img src="https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif"/>-->
   <!--<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=BAEKTEUN&fontSize=90"/>-->
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:42%;"/>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
   
-![swift](https://user-images.githubusercontent.com/74440939/134772099-41fc64d9-b2e3-4303-92a0-b21145d8c47e.png)
+<!--![swift](https://user-images.githubusercontent.com/74440939/134772099-41fc64d9-b2e3-4303-92a0-b21145d8c47e.png)-->
   
   <p>
     <img style="width: 60%;" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   <img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>-->
   
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
+  <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)-->
 ![Snake animation](https://github.com/baekteun/baekteun/blob/output/github-contribution-grid-snake.svg)
   
 </div>
