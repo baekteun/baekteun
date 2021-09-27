@@ -78,8 +78,8 @@ Here are some ideas to get you started:
   <img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>-->
   
   
-  <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)-->
-![Snake animation](https://github.com/baekteun/baekteun/blob/output/github-contribution-grid-snake.svg)
+  <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
+![Snake animation](https://github.com/baekteun/baekteun/blob/output/github-contribution-grid-snake.svg)-->
   
 </div>
 
