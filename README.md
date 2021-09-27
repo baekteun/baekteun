@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 <!--![swift](https://user-images.githubusercontent.com/74440939/134772099-41fc64d9-b2e3-4303-92a0-b21145d8c47e.png)-->
   
   <p>
-    <img style="width: 60%;" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
-      <img style="width: 39%;" src="http://mazassumnida.wtf/api/generate_badge?boj=baekteun"/>
+    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=baekteun"/>
   </p>
   
 
