@@ -71,7 +71,8 @@ Here are some ideas to get you started:
   </p>
   
 
-  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=baekteun&theme=tokyonight"/>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=baekteun&row=1&theme=darkhub"/>
 
   
   <!--![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
