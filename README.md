@@ -67,11 +67,12 @@ Here are some ideas to get you started:
   
   <p>
     <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=baekteun"/>
-  </p>
-  
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=baekteun&theme=tokyonight"/>
+  </p>
+  <div>
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=baekteun" style="width: 43%;"/>
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=baekteun&theme=tokyonight" style="width: 56%;"/>
+  </div>
         <img width="99%" src="https://github-profile-trophy.vercel.app/?username=baekteun&row=1&theme=darkhub"/>
 
   
