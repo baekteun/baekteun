@@ -69,12 +69,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
 
   </p>
-  <div>
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=baekteun" style="width: 43%;"/>
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=baekteun&theme=tokyonight" style="width: 56%;"/>
-  </div>
-        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=baekteun&row=1&theme=darkhub"/>
-
+  
   
   <!--![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=baekteun)](https://solved.ac/kinetic27)
