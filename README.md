@@ -65,10 +65,10 @@ Here are some ideas to get you started:
   
 <!--![swift](https://user-images.githubusercontent.com/74440939/134772099-41fc64d9-b2e3-4303-92a0-b21145d8c47e.png)-->
   
-  <p>
-    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
-
-  </p>
+  
+  
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/>
+  
   
   
   <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966"></img>
