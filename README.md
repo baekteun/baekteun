@@ -24,11 +24,13 @@ Here are some ideas to get you started:
   <!--<img src="https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif"/>-->
   <!--<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=BAEKTEUN&fontSize=90"/>-->
   
+  [![baekteun/gitartwork](gitartwork.svg)](https://github.com/baekteun/gitartwork)
+  
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:42%;"/>
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  [![baekteun/gitartwork](gitartwork.svg)](https://github.com/baekteun/gitartwork)
+
 <!--<table>
   <tr>
     <td valign="top" width=50%>
