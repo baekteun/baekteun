@@ -29,9 +29,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:42%;"/>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekteun)](https://solved.ac/baekteun/)
-  
   [![baekteun discord](https://lanyard.cnrad.dev/api/330273418119479297)](https://discord.com/users/330273418119479297) 
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekteun)](https://solved.ac/baekteun/)
 <!--   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!--<table>
