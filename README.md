@@ -1,39 +1,18 @@
-<!--
-**baekteun/baekteun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-![Cópia de Sem nome](https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif)
-[![GitHub LuciLua](https://img.shields.io/github/followers/LuciLua?label=follow&style=social)](https://github.com/LuciLua)ﾠ
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=BAEKTEUN&fontSize=90)
-![baekteun's github stats](https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true)
-![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko) -->
-
 <div align="center">
-  <!--<img src="https://user-images.githubusercontent.com/71510774/132281653-d5084b01-e7df-442c-b30c-1d02c692e25f.gif"/>-->
-  <!--<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=BAEKTEUN&fontSize=90"/>-->
-  
-<!--   [![baekteun/gitartwork](gitartwork.svg)](https://github.com/baekteun/gitartwork) -->
-  
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:42%;"/>
-  
+
+
   [![baekteun discord](https://lanyard.cnrad.dev/api/330273418119479297)](https://discord.com/users/330273418119479297) 
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekteun)](https://solved.ac/baekteun/)
+  
+</div>
+  
 <!--   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+
+<!-- Stack Table -->
 <!--<table>
   <tr>
     <td valign="top" width=50%>
@@ -68,32 +47,11 @@ Here are some ideas to get you started:
   </tr>
 </table> -->
   
-<!--![swift](https://user-images.githubusercontent.com/74440939/134772099-41fc64d9-b2e3-4303-92a0-b21145d8c47e.png)-->
-  
-  
-<!--   
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun"/> -->
-  
-  
 <div>
   <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" height="30"></img>
   <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30" height="30"></img>
-  </div>
-  
-
-
-
-
-  
-  <!--![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=baekteun)
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=baekteun)](https://solved.ac/kinetic27)
-  <img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>-->
-  
-  
-  <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/baekteun/github-readme-activity-graph)
-![Snake animation](https://github.com/baekteun/baekteun/blob/output/github-contribution-grid-snake.svg)-->
-  
 </div>
+  
 
 
 
