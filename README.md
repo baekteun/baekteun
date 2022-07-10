@@ -1,12 +1,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:42%;"/>
-
-
-  [![baekteun discord](https://lanyard.cnrad.dev/api/330273418119479297)](https://discord.com/users/330273418119479297) 
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekteun)](https://solved.ac/baekteun/)
+</div>
+
+<div align="center">
+  <a href="https://discord.com/users/330273418119479297">
+    <img src="https://lanyard.cnrad.dev/api/330273418119479297" style="width: 40%;"/>
+  </a>
+
+  <a href="https://solved.ac/baekteun/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=baekteun" style="width: 40%;"/>
+  </a>
   
+  <div>
+    <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" height="30"></img>
+    <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30" height="30"></img>
+  </div>
 </div>
   
 <!--   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
@@ -46,11 +56,6 @@
     </td>
   </tr>
 </table> -->
-  
-<div>
-  <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" height="30"></img>
-  <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30" height="30"></img>
-</div>
   
 
 
