@@ -6,11 +6,11 @@
 
 <div align="center">
   <a href="https://discord.com/users/330273418119479297">
-    <img src="https://lanyard.cnrad.dev/api/330273418119479297" style="width: 40%;"/>
+    <img src="https://lanyard.cnrad.dev/api/330273418119479297" />
   </a>
 
   <a href="https://solved.ac/baekteun/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=baekteun" style="width: 40%;"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=baekteun" />
   </a>
   
   <div>
