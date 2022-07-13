@@ -13,12 +13,23 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=baekteun" />
   </a>
   
-  <div>
+</div>
+
+<div align="center">
+  <a href="https://apps.apple.com/kr/app/gri-g/id1622010590"><img src="https://user-images.githubusercontent.com/74440939/178626262-9fb254d4-61e0-4309-a39d-21b71108da65.png" width="125" height="125" /></a>
+  <a href="https://apps.apple.com/app/id1629567018"><img src="https://user-images.githubusercontent.com/74440939/178626409-e1d1d609-a630-4666-bda1-179415534b5d.png" width="125" height="125" /></a>
+  <a href="https://apps.apple.com/kr/app/gcms/id1616315883"><img src="https://user-images.githubusercontent.com/74440939/178626493-ef5d220c-37fe-4100-98ae-c76bfef9d2e6.png" width="125" height="125" /></a>
+  
+</div>
+
+  
+<div align="center">
     <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" height="30"></img>
     <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30" height="30"></img>
-  </div>
 </div>
-  
+
+
+
 <!--   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=baekteun&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
@@ -56,8 +67,6 @@
     </td>
   </tr>
 </table> -->
-  
-
 
 
 
