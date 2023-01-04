@@ -15,10 +15,10 @@
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://apps.apple.com/kr/app/gri-g/id1622010590"><img src="https://user-images.githubusercontent.com/74440939/178626262-9fb254d4-61e0-4309-a39d-21b71108da65.png" width="125" height="125" /></a>
   <a href="https://apps.apple.com/app/id1629567018"><img src="https://user-images.githubusercontent.com/74440939/178626409-e1d1d609-a630-4666-bda1-179415534b5d.png" width="125" height="125" /></a>
-  <a href="https://apps.apple.com/kr/app/gcms/id1616315883"><img src="https://user-images.githubusercontent.com/74440939/178626493-ef5d220c-37fe-4100-98ae-c76bfef9d2e6.png" width="125" height="125" /></a>
+  <a href="https://apps.apple.com/kr/app/gcms/id1616315883"><img src="https://user-images.githubusercontent.com/74440939/178626493-ef5d220c-37fe-4100-98ae-c76bfef9d2e6.png" width="125" height="125" /></a> -->
   
 </div>
 
