@@ -6,7 +6,7 @@
 - [Tistory](https://baegteun.tistory.com)
 - [AppStore](https://apps.apple.com/kr/developer/hyeongwoo-choi/id1614205706)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:32%;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:37%;"/>
 
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
