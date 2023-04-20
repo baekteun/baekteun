@@ -1,4 +1,4 @@
-# 👋 Welcome to baegteun's Github
+#  iOS Developer baegteun's Github
 
 ### I'm iOS Engineer
 
@@ -25,6 +25,37 @@
 </div>-->
   
 </div>
+
+<h2> 소속 </h2>
+
+<table>
+  <tr>
+    <th>
+      <a href="https://github.com/GSM-MSG">
+        MSG
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/team-aliens">
+        DMS
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://github.com/GSM-MSG">
+        <img src="https://user-images.githubusercontent.com/74440939/233374600-d7bb5c15-41f8-4982-8319-c831ca5b0d31.png" width="160" height="160" />
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/team-aliens">
+        <img src="https://user-images.githubusercontent.com/74440939/233375365-d937bd77-9f66-4525-a975-27e26a8ea731.png" width="160" height="160" />
+      </a>
+    </th>
+  </tr>
+</table>
+
+
 
  <div>
     <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" height="30"></img>
