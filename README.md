@@ -1,4 +1,4 @@
-#  iOS Developer baegteun's Github
+#  iOS Engieer baegteun's Github
 
 ### I'm iOS Engineer
 
@@ -26,7 +26,7 @@
   
 </div>
 
-<h2> 소속 </h2>
+<h2>Team</h2>
 
 <table>
   <tr>
