@@ -1,8 +1,6 @@
-#  iOS Engieer baegteun's Github
+#  iOS baegteun's Github
 
-### I'm iOS Engineer
-
-- [Portfoilo](https://baegteun.com)
+<!-- - [Portfoilo](https://baegteun.com) -->
 - [Tistory](https://baegteun.tistory.com)
 - [AppStore](https://apps.apple.com/kr/developer/hyeongwoo-choi/id1614205706)
 
