@@ -6,6 +6,27 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:37%;"/>
 
+## Projects
+- [오늘 뭐임](https://github.com/baekteun/TodayWhat-new)
+- [DMS](https://github.com/team-aliens/DMS-iOS)
+- [도토리](https://github.com/Team-Ampersand/Dotori-iOS)
+- [SMS](https://github.com/GSM-MSG/SMS-iOS)
+- [심통](https://github.com/Team-ComIT/SimTong-iOS)
+- [GCMS](https://github.com/GSM-MSG/GCMS-iOS)
+- [GRIG](https://github.com/baekteun/GRIG-iOS)
+- [모이자](https://github.com/Software-Meister-High-School-Community/MOIZA-iOS)
+
+## Open Sources
+- [Miniature](https://github.com/GSM-MSG/Miniature)
+- [Emdpoint](https://github.com/GSM-MSG/Emdpoint)
+- [CombineFlow](https://github.com/baekteun/CombineFlow)
+- [Configure](https://github.com/GSM-MSG/Configure)
+- [NeiSwift](https://github.com/baekteun/NeiSwift)
+- [EventLimiter](https://github.com/baekteun/EventLimiter)
+- [BTImageView](https://github.com/baekteun/BTImageView)
+- [MSGLayout](https://github.com/GSM-MSG/MSGLayout)
+- [Store](https://github.com/GSM-MSG/Store)
+
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
   
