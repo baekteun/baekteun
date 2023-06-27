@@ -2,6 +2,7 @@
 
 <!-- - [Portfoilo](https://baegteun.com) -->
 - [Tistory](https://baegteun.tistory.com)
+- [Medium](https://baegteun.medium.com)
 - [AppStore](https://apps.apple.com/kr/developer/hyeongwoo-choi/id1614205706)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:37%;"/>
