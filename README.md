@@ -8,16 +8,47 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:37%;"/>
 
 ## Projects
-- [오늘 뭐임](https://github.com/baekteun/TodayWhat-new)
-- [DMS](https://github.com/team-aliens/DMS-iOS)
-- [도토리](https://github.com/Team-Ampersand/Dotori-iOS)
-- [SMS](https://github.com/GSM-MSG/SMS-iOS)
-- [심통](https://github.com/Team-ComIT/SimTong-iOS)
-- [GCMS](https://github.com/GSM-MSG/GCMS-iOS)
-- [GRIG](https://github.com/baekteun/GRIG-iOS)
-- [모이자](https://github.com/Software-Meister-High-School-Community/MOIZA-iOS)
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baekteun&repo=TodayWhat-new" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=team-aliens&repo=DMS-iOS" />
+</div>
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Team-Ampersand&repo=Dotori-iOS" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=SMS-iOS" />
+</div>
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=GCMS-iOS" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Team-ComIT&repo=SimTong-iOS" />
+</div>
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baekteun&repo=GRIG-iOS" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Software-Meister-High-School-Community&repo=MOIZA-iOS" />
+</div>
+
 
 ## Open Sources
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=Miniature" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=Emdpoint" />
+</div>
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baekteun&repo=CombineFlow" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=Configure" />
+</div>
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baekteun&repo=NeiSwift" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baekteun&repo=EventLimiter" />
+</div>
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baekteun&repo=BTImageView" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=MSGLayout" />
+</div>
+<div>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=Store" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=Anim" />
+</div>
+
+<!--
 - [Miniature](https://github.com/GSM-MSG/Miniature)
 - [Emdpoint](https://github.com/GSM-MSG/Emdpoint)
 - [CombineFlow](https://github.com/baekteun/CombineFlow)
@@ -28,6 +59,7 @@
 - [MSGLayout](https://github.com/GSM-MSG/MSGLayout)
 - [Store](https://github.com/GSM-MSG/Store)
 - [Anim](https://github.com/GSM-MSG/Anim)
+-->
 
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baekteun&theme=radical&show_icons=true" style="width:50%;"/>
