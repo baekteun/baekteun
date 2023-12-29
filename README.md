@@ -5,6 +5,10 @@
 - [Medium](https://baegteun.medium.com)
 - [AppStore](https://apps.apple.com/kr/developer/hyeongwoo-choi/id1614205706)
 
+<a href="https://discord.com/users/330273418119479297">
+  <img src="https://discord-profile-starcea.paring.moe/discord/330273418119479297" />
+</a>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:37%;"/>
 
 ## Projects
