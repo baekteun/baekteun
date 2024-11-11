@@ -14,7 +14,7 @@
 ## Projects
 <div>
   <a href="https://github.com/baekteun/TodayWhat-new">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baekteun&repo=TodayWhat-new" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todaywhat&repo=TodayWhat-iOS" />
   </a>
   <a href="https://github.com/team-aliens/DMS-iOS">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=team-aliens&repo=DMS-iOS" />
