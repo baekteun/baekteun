@@ -11,6 +11,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekteun&layout=compact&thema=merko" style="width:37%;"/>
 
+<!--
 ## Projects
 <div>
   <a href="https://github.com/baekteun/TodayWhat-new">
@@ -92,6 +93,8 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GSM-MSG&repo=Anim" />
   </a>
 </div>
+
+-->
 
 <!--
 - [Miniature](https://github.com/GSM-MSG/Miniature)
